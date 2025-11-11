@@ -1,0 +1,4 @@
+1 Giorgio $2a$10$dvviHRjCT1EtKXvXQrnY/.8JnHrbTPx5gXRAMOKTl.Wn3A7EC12NC Admin
+4 Francesco $2a$10$gPYfqrk3XSVEeIlEEpTeQuebfEuMeRpxh3tCQOeCkWB2maKKQ0TfG Admin
+6 Valerio $2a$10$OzG1A87zKt9F.l6g7ERwXeGCDjAQIP0kLv53IZBrk0PIJRhRk1l6O Admin
+7 Leonardo $2a$10$GVrKKUkwaTJ1in14hzb0m.UxiLqrgA9BFdVIz5MHWu8R/pFNKGpni Admin

@@ -1,0 +1,6 @@
+1 Giorgio email Admin
+2 Giulia qualcosa User
+4 Francesco patata@gmail.com Admin
+5 Angela ciao@gmail.com User
+6 Valerio admin@gmail.com Admin
+7 Leonardo prova@gmail.com Admin
